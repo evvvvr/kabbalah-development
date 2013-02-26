@@ -1,3 +1,7 @@
+---
+title: Kabbalah Development Manifesto
+---
+
 # Manifesto for Kabbalah Software Development
 
 As God created everything that is destined to come into being through letters,
