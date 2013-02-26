@@ -5,6 +5,6 @@ hence we shalt dutifully connect the essence of a business model with its physic
 hewing, combining and interchanging the symbols of a programming language,
 using the wisdom of forefathers unveiled in the Tree Of Sefirot and following the Limitless Light in the eternal cycle of the perfect software formation
 
-[[Sefirot.png]]
+![Sefirot](Sefirot.png)
 
 Copyright  © 2013 Yuri Vanin & Vladimir Galkin.
