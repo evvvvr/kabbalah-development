@@ -1,3 +1,3 @@
-http://voga.github.io/kabbalah-development/
+An Occult-Driven Software Development Methodology
 
-An Occult-driven Software Development Methodology
+http://evvvvr.github.io/kabbalah-development/
