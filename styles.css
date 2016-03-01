@@ -1,8 +1,7 @@
-@import url("normalize.css");
-
 body {
     background-color: rgb(239,240,227);
     font-family: 'Belleza', sans-serif;
+    font-size: 100%;
 }
 
 main {
